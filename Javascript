@@ -1,0 +1,6 @@
+Ref: https://github.com/imkrimerman/javascript-ebooks
+
+STAGE 1: http://eloquentjavascript.net/ 
+STAGE 2: https://github.com/getify/You-Dont-Know-JS
+STAGE 3: Effective JavaScript 68 Specific Ways to Harness the Power of JavaScript
+STAGE 4: High Performance JavaScript
